@@ -14,4 +14,4 @@ git remote add azure https://$GIT_USERNAME@educationapp$ID.scm.azurewebsites.net
 
 git push https://$GIT_USERNAME:$GIT_PASSWORD@educationapp$ID.scm.azurewebsites.net/educationapp$ID.git
 
-echo "Web app deployed to https://educationapp$ID.scm.azurewebsites.net/"
+echo "Web app deployed to https://educationapp$ID.azurewebsites.net/"
