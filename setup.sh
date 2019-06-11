@@ -1,4 +1,4 @@
-GIT_USERNAME=gitName$Random
+GIT_USERNAME=gitName$RANDOM
 GIT_PASSWORD=Pa55w.rd
 
 dotnet build
