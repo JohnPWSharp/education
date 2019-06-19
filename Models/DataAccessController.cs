@@ -11,7 +11,7 @@ namespace CoursesWebApp.Models
     public class DataAccessController
     {
         // TODO: Add your connection string in the following statements
-        private string connectionString = "<Azure SQL Database Connectoion String>";
+        private string connectionString = "<Azure SQL Database Connection String>";
 
         // Retrieve all details of courses and their modules    
         public IEnumerable<CoursesAndModules> GetAllCoursesAndModules()
